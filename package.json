@@ -1,0 +1,27 @@
+{
+  "name": "bonus_lesson_promise",
+  "version": "1.0.0",
+  "description": "����� �뢮�� ������ �� �࠭ (ECHO) ����祭.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViacheslavDemchenko/js3.0_bonus_lesson_promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViacheslavDemchenko/js3.0_bonus_lesson_promises/issues"
+  },
+  "homepage": "https://github.com/ViacheslavDemchenko/js3.0_bonus_lesson_promises#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.0.0",
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.0.0"
+  }
+}
